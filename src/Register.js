@@ -79,6 +79,7 @@ function Register() {
             ) : null}
             <button className="btn btn-success submit">Submit</button>
           </form>
+          <h3 className='statement'>This Data Is Not Stored In The Database.</h3>
         </div>
       </div>
     </div>

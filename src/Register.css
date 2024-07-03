@@ -63,3 +63,11 @@ span{
     position: absolute;
 
 }
+.statement{
+    color: #fff;
+    padding-top: 170px;
+    padding-left: 45px;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
